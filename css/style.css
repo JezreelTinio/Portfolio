@@ -1,0 +1,49 @@
+@media (min-width: 992px){
+    .navbar-expand-lg .navbar-toggler{
+        display: none;
+    }
+
+}
+    
+.card{
+    background-color: black;
+    color: white;
+    margin: 20px 10px;
+}
+.contact{
+    background-color: rgb(245, 238, 238);
+    height: 100vh;
+}
+.navbar-logo:hover{
+    transform: scale(1.5);
+}
+.home1{
+    background-image: url(../images/light-blue-background_GkNvxFHd_SB_PM.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.next{
+    height: 100vh;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.btn1 {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+  }
+  
+  /* Darker background on mouse-over */
+  .btn1:hover {
+    background-color: RoyalBlue;
+  }
+
+  .mine{
+    background-color: rgb(78, 126, 158);
+  }
+  
